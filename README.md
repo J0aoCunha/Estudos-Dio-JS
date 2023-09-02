@@ -1,4 +1,4 @@
-# Estudos Dio
+# Estudos Dio 📙💻
 
 Repositorio criado para guarda meus estudos de introduçao ao JavaScript do BOOTCAMP SANTANDER
 
