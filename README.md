@@ -22,5 +22,5 @@ O BOOTCAMP SANTANDER é uma oportunidade incrível para aprender e aprimorar sua
 
 Caso queira entrar em contato ou saber mais sobre os meus estudos de JavaScript, você pode me encontrar no meu GitHub [J0aoCunha](https://github.com/J0aoCunha).
 
-### Todo upload do repositorio para o GITHUB foi feito atraves da linha de comando no GIT
+
 
